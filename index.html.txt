@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>¡Adopta, no compres!</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>¡Adopta, no compres!</h1>
+    <nav>
+      <ul>
+        <li><a href="#">Inicio</a></li>
+        <li><a href="#">Cuidados</a></li>
+        <li><a href="#">Contáctanos</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section>
+      <h2>¿Por qué adoptar?</h2>
+      <p>Adoptar un animal callejero es un acto de amor. Muchos animales esperan una segunda oportunidad para ser felices.</p>
+    </section>
+
+    <section>
+      <h2>Cuidados Básicos</h2>
+      <ul>
+        <li>Buena alimentación</li>
+        <li>Atención veterinaria</li>
+        <li>Amor y compañía</li>
+        <li>Un hogar seguro</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Ejemplo de felicidad</h2>
+      <img src="imagenes/perro-feliz.jpg" alt="Perro adoptado feliz" width="300">
+    </section>
+  </main>
+
+  <footer>
+    <p>Contáctanos: adopciones@cuidaanimal.org</p>
+    <p>&copy; 2025 CuidaAnimal | Fundación Rescate Animal</p>
+  </footer>
+</body>
+</html>
